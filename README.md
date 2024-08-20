@@ -10,3 +10,5 @@ zu allen Orten in Deutschland finden und auf mögliche Zusammenhänge schließen
 
 - Eine eingebettete HTML-Karte (`mymapSocialWifi.html`), die interaktiv genutzt werden kann
 - Textbeschreibungen, die die Karte und den Kontext erklären
+- Code in Colab mit Checkpoints (generiert mymap21.html -> mymapSocialWifi.html)
+- Code als .py Datei (generiert mymap21.html -> mymapSocialWifi.html)
